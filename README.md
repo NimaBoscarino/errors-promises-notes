@@ -48,7 +48,11 @@ This is bad! Lucky for us, we can use **Promises** to handle these things nicely
 
 Promises let us reason about the future! Let's start with a scenario (adapted from [Kyle Simpson's book ASYNC & PERFORMANCE](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)):
     
-    I go to a burger place and order a burger. After paying, I receive a receipt from the cashier with my order number on it. This receipt is effectively an IOU ("I owe you") for the burger. After waiting around for a while, my order number is called and I can go exchange my receipt and pick up my burger. It's possible, however, that my order number gets called and I get told that the restaurant is out of stock of burger patties, and my order is refunded. Both of these are possible scenarios, and they can be handled gracefully.
+    I go to a burger place and order a burger. 
+    After paying, I receive a receipt from the cashier with my order number on it.
+    This receipt is effectively an IOU ("I owe you") for the burger. After waiting around for a while, my order number is called and I can go exchange my receipt and pick up my burger.
+    It's possible, however, that my order number gets called and I get told that the restaurant is out of stock of burger patties, and my order is refunded.
+    Both of these are possible scenarios, and they can be handled gracefully.
 
 So... main ideas to get with Promises are:
 
