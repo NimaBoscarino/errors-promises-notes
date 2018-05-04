@@ -1,6 +1,6 @@
 # Week 4 Day 4: Errors and Promises
 
-**REPO: https://github.com/NimaBoscarino/promises-notes**
+**REPO: https://github.com/NimaBoscarino/errors-promises-notes**
 
 **Note: the book I mentioned in lecture (Async & Performance) is [available for free on Github](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance).**
 
