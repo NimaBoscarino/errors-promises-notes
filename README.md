@@ -14,8 +14,34 @@
 
 4. [**Promises - MDN**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
+5. [**Bop It Commercial**](https://www.youtube.com/watch?v=fH4XHwefPVY)
+   
+6. [**Daft Punk**](https://www.youtube.com/watch?v=HvhQ2OpzJjI)
+
+7. [**Callback Hell**](http://callbackhell.com/)
+
+## Here are some examples of real-life errors and promises
+
+Errors:
+
+- didn't invest in bitcoin
+    - Cried a bit
+- bought an XBOX 360 way too late
+    - Had to make new online friends
+- Bought Skyrim (400 - 600 hours)
+    - Just having fun and not worrying about it too much
+
+Promises:
+
+- Would finish undergrad in 4 years
+    - Didn't! But it's okay, I deal with it eventually.
+- Reach these keeds
+    - Kinda, and then I move on to reaching other keeds.
+- Get into fantastic shape
+    - I did! But I can always do better, keep going.
 
 ### Learning about Try...Catch for handling errors in synchronous cases.
+
 ```js
 try {
     // some code
@@ -92,6 +118,7 @@ With .race(), we pass in an array of promises, and only return the resolution of
 
 ### READ THE DOCUMENTATION!!!
 Have fun 🤖💻
+
 - Nima Boscarino
 
 
